@@ -24,10 +24,10 @@ I am `Prasad Kale`, Cat Lover, Front end web developer from Pune, India.
 
 ![Sanket Khote Streak](https://github-readme-streak-stats.herokuapp.com/?user=sanketkhote99) -->
 
-<!-- <a href="https://github.com/sanketkhote99/c-programs" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sanketkhote99&repo=c-programs&theme=dracula" />
+<a href="https://github.com/PrasadKale88/PrasadKale88" target="_blank">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=prasadkale88&repo=PrasadKale88&theme=dracula" />
 </a>
- -->
+
 
 <div align="center">
 </br>
