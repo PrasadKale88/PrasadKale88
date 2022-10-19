@@ -17,12 +17,12 @@ I am `Prasad Kale`, Cat Lover, Front end web developer from Pune, India.
 
 
 ## Connect with Me 🤝🏻
+[![GitHub](https://img.shields.io/badge/Github-prasadkale88-blue)](https://github.com/prasadkale88)
+[![Instagram](https://img.shields.io/badge/Instagram-parshya_kale_official_2088-red)](https://instagram.com/parshya_kale_official_2088)
 
-<!-- [![Twitter](https://img.shields.io/badge/Twitter-sanketkhote99-blue)](https://twitter.com/sanketkhote99) [![GitHub](https://img.shields.io/badge/Github-sanketkhote99-blue)](https://github.com/sanketkhote99) [![Instagram](https://img.shields.io/badge/Instagram-sanket.khote-red)](https://instagram.com/sanket.khote)
+![Peasad Kale Statistics](https://github-readme-stats.vercel.app/api?username=prasadkale88&show_icons=true)
 
-![Sanket Khote Statistics](https://github-readme-stats.vercel.app/api?username=sanketkhote99&show_icons=true)
-
-![Sanket Khote Streak](https://github-readme-streak-stats.herokuapp.com/?user=sanketkhote99) -->
+![Prasad Kale Streak](https://github-readme-streak-stats.herokuapp.com/?user=prasadkale88)
 
 <a href="https://github.com/PrasadKale88/PrasadKale88" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=prasadkale88&repo=PrasadKale88&theme=dracula" />
